@@ -1,5 +1,5 @@
-# Daily Learning
+# What happened to the photon who broke the law?
 
-## Morning Planning
+## He was sent to prism.
 
-## Review
+## Dont worry, it's a light sentence.
