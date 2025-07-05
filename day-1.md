@@ -1,5 +1,9 @@
-# What happened to the photon who broke the law?
+# Daily Learning
 
-## He was sent to prism.
+## Morning Planning
 
-## Dont worry, it's a light sentence.
+- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog post into an actual webpage.
+
+## Review
